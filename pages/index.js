@@ -5,7 +5,6 @@ import styles from '../styles/Home.module.css'
 // ~ Added code
 import { useRecoilState } from 'recoil'
 import { _counter } from '../recoil.js'
-import { useEffect } from 'react'
 
 export default function Home() {
   // ~ Added code
